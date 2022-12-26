@@ -1,33 +1,35 @@
 # EventSourcing-CQRS
 ## A web application for road violations based on microservices architechture, along with Event Sourcing and CQRS patter.
 
-<ol>
-  <li>
-    <h3>Microservices architechture</h3>
-  </li>
-  <li>
-    <h3>Event sourcing and CQRS pattern architecture</h3>
-  </li>
-  <li>
-    <h3>Class Diagram</h3>
-  </li> 
-  <li>
-    <h3>Essential Microservices for the architechture</h3>
-    <ol type="a">
-      <li>Configuration service</li>
-      <li>Gateway service</li>
-      <li>Registration service using <b>Consul</b></li>
-    </ol>
-  </li>
-  <li>
-    <h3>Microservices implemented</h3>
-    <ol type="a">
-      <li>Violation command side</li>
-      <li>Violation query side</li>
-      <li>Radar command side</li>
-      <li>Radar command side</li>
-      <li>Registration command side</li>
-      <li>Registration command side</li>
-    </ol>
-  </li>
-</ol>
+
+### 1. [Microservices architechture](#microservices-architechture)
+### 2. [Event sourcing and CQRS pattern architecture](#event-sourcing-and-cqrs-pattern-architecture)
+### 3. Class Diagram
+### 4. Essential Microservices for the architechture
+   1. Violation command side
+   2. Violation query side
+   3. Radar command side
+   4. Radar command side
+   5. Registration command side
+   6. Registration command side
+
+***
+
+
+## Microservices architechture
+![image](https://user-images.githubusercontent.com/79362593/209573467-f928cc8e-478f-4b4a-b6e0-b8be2e969fb1.png)
+
+***
+
+## Event sourcing and CQRS pattern architecture
+![image](https://user-images.githubusercontent.com/79362593/209573208-42c5140c-5763-48b5-95b8-2512d5962c15.png)
+
+## Class Diagram
+
+
+
+
+
+
+
+
