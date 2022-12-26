@@ -12,11 +12,22 @@
     <h3>Class Diagram</h3>
   </li> 
   <li>
-    <h3>Services</h3>
+    <h3>Essential Microservices for the architechture</h3>
     <ol type="a">
       <li>Configuration service</li>
       <li>Gateway service</li>
       <li>Registration service using <b>Consul</b></li>
+    </ol>
+  </li>
+  <li>
+    <h3>Microservices implemented</h3>
+    <ol type="a">
+      <li>Violation command side</li>
+      <li>Violation query side</li>
+      <li>Radar command side</li>
+      <li>Radar command side</li>
+      <li>Registration command side</li>
+      <li>Registration command side</li>
     </ol>
   </li>
 </ol>
