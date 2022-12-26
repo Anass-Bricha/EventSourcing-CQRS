@@ -5,9 +5,9 @@
 
 
 ### 1. [Microservices architecture](#1-microservices-architechture)
-### 2. [Event sourcing and CQRS pattern architecture](#event-sourcing-and-cqrs-pattern-architecture)
-### 3. [Class Diagram](#class-diagram)
-### 4. [Essential Microservices for the architecture](#essential-microservices-for-the-architecture)
+### 2. [Event sourcing and CQRS pattern architecture](#2-event-sourcing-and-cqrs-pattern-architecture)
+### 3. [Class Diagram](#3-class-diagram)
+### 4. [Essential Microservices for the architecture](#4-essential-microservices-for-the-architecture)
    1. Configuration service
    2. Gateway service
    3. Registration service using **Consul**
@@ -28,17 +28,17 @@
 
 ***
 
-## Event sourcing and CQRS pattern architecture
+## 2. Event sourcing and CQRS pattern architecture
 ![image](https://user-images.githubusercontent.com/79362593/209573208-42c5140c-5763-48b5-95b8-2512d5962c15.png)
 
 ***
 
-## Class Diagram
+## 3. Class Diagram
 ![image](https://user-images.githubusercontent.com/79362593/209575984-ac7566ef-45ef-4c04-95cc-3aaa7dc03328.png)
 
 ***
 
-## Essential Microservices for the architecture
+## 4. Essential Microservices for the architecture
 
 
 
